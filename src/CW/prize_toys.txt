@@ -1,0 +1,10 @@
+1,doll
+1,doll
+1,doll
+3,dog
+2,car
+2,car
+3,dog
+4,boll
+3,dog
+4,boll

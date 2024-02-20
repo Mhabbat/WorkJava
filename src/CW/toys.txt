@@ -1,0 +1,4 @@
+1 doll 12
+2 car 6
+3 dog 44
+4 boll 16
